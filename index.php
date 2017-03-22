@@ -1,6 +1,6 @@
 <?php
 
-require_once "bootstrap.php";
+require_once "doctrine/bootstrap.php";
 
 if ($_POST['fromDate'] and $_POST['toDate']) {
 
