@@ -1,0 +1,13 @@
+{
+  "require": {
+    "moment/moment": "^2.18",
+    "eternicode/bootstrap-datepicker": "^1.6",
+    "doctrine/orm": "^2.5",
+    "symfony/yaml": "2.*"
+  },
+  "autoload": {
+    "psr-0": {
+      "": "src/"
+    }
+  }
+}
